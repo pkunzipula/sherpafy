@@ -1,15 +1,14 @@
 {
   "name": "sherpafy",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a website for the soon to be real Sherpafy Event Booking SAAS.",
   "main": "index.js",
   "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^4.4.1"
-  }
+  "author": "James Capra",
+  "license": "ISC"
 }
